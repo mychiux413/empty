@@ -1,0 +1,19 @@
+baseURL: http://test-q8.miscr.net
+languageCode: zh-tw
+title: TESTQ8
+description: "3A娛樂城已超過10萬名玩家註冊，真正的頂級台灣娛樂城品牌。每月9000名玩家成功出款，快速不囉嗦。贏錢就是這麼簡單！提供「真人、彩票、體育、老虎機」等熱門上百款博奕遊戲等你來挑戰。"
+theme: kaonashi
+googleAnalytics: G-MEASUREMENT_ID
+params:
+  title: "TEST-Q8"
+  fb: "https://www.facebook.com/blockcast.it/"
+social:
+  facebook_admin: "fbID"
+menu:
+  main:
+  - name: 部落格
+    url: /blog/
+    weight: -110
+  - name: 關於我們
+    url: /about/
+    weight: 0

@@ -1,0 +1,3 @@
+[submodule "themes/kaonashi"]
+	path = themes/kaonashi
+	url = git@bitbucket.com:mychiux413/kaonashi.git
